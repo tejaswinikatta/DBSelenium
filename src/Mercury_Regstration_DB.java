@@ -20,7 +20,7 @@ public static WebDriver driver;
 		driver.findElement(By.name("phone")).sendKeys(a.get(0));
 		driver.findElement(By.id("userName")).sendKeys(a.get(0));
 		
-		
+		System.out.println("dvbiubv");
 		
 	}
 
